@@ -24,7 +24,7 @@ const Hero = () => {
           </span>
           <br />
           of <span className="text-coral-red inline-block mt-3">
-            Snickers
+            Sneakers
           </span>{" "}
         </h1>
         <p className="font-montserrat text-slate-gray text-md leading-8 mt-6 mb-10 sm:max-w-sm">
