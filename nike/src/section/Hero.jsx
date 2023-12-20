@@ -23,7 +23,7 @@ const Hero = () => {
             The New Arrival
           </span>
           <br />
-          of <span className="text-coral-red inline-block mt-3">
+           <span className="text-coral-red inline-block mt-3">
             Sneakers
           </span>{" "}
         </h1>
